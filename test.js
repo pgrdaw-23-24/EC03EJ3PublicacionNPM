@@ -1,3 +1,3 @@
-const banana = require('./banana.js')
+const banana = require('./bananize.js')
 
-console.log (banana([8, 9, 'dsfg', , , , [8, 'sdf']]))
+console.log (banana([8, true, 'dsfg', null,  [8, 'sdf']]))
